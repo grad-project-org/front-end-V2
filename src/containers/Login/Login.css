@@ -1,0 +1,21 @@
+.login {
+  position: fixed;
+  width: 400px;
+  height: 200px;
+  margin-top: 15%;
+  margin-left: 35%;
+  /* align-self: center; */
+  /* background: transparent; */
+  padding: 2rem 0.5rem;
+  transition: all 0.5s ease;
+  /* color: #41403e; */
+  font-size: 2rem;
+  letter-spacing: 1px;
+  outline: none;
+  box-shadow: 25px 33px 34px 26px hsla(263, 100%, 50%, 0.2);
+  /* border:solid 1px #1884f0; */
+  /* border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; */
+}
+.login p {
+  font-size: small;
+}

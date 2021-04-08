@@ -1,0 +1,45 @@
+.cam{
+    width:100%;
+    height:auto;
+   
+}
+.camcon{
+    border:3px solid #2D8EDD;
+    border-radius:7px;
+}
+.button{
+    width : 100px;
+    height: 40px;
+    color:#2D8EDD;
+    text-decoration: none; 
+    font-size: medium;
+    background-color: transparent;
+    border-style: none;
+}
+
+.container{
+    width:40%;
+    height:30%;
+    position:relative;
+    top:100px;
+    left:25%;
+}
+
+.photo{
+    width:350px;
+    height:600px;
+    display:inline-block;
+    left:650px;
+    bottom:500px;
+    overflow: auto;
+    border: 3px dotted #2D8EDD;
+    border-radius:7px;
+    position: relative;
+}
+
+.img{
+   width:100px;
+   height: 100px;
+   margin:2px;
+   border-radius: 5px;
+}
