@@ -1,0 +1,50 @@
+.cam{
+    width:100%;
+    height:auto;
+   
+}
+.camcon{
+    border:solid 3px #1884f0;
+    border-radius: 7px;
+   
+}
+.container{
+    width:40%;
+    height:30%;
+    position:relative;
+    top:100px;
+    left:25%;
+}
+.attend{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: center;
+    border: 2px solid #1884f0;
+    margin:3px;
+    margin-bottom: 10px;
+    padding: 2px;
+    box-shadow: 10px 10px 10px #ddd;
+}
+.attend h3 {
+    color:royalblue;
+
+}
+
+.attend .date{
+    color:red;
+    padding: 3px;
+    display: inline-block;
+}
+.attend .time{
+    color:blue;
+    padding: 3px;
+    display: inline-block;
+}
+
+.attend .inout{
+    color:green;
+    padding: 3px;
+    display: inline-block;
+
+}
